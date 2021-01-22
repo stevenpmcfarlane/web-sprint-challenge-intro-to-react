@@ -1,17 +1,18 @@
 export default {
-  primaryColor: "goldenrod",
-  secondaryColor: "black:",
+  primaryColor: "crimson",
+  secondaryColor: "black",
   black: "black",
   white: "white",
   fontWeight: "bold",
   breakpoints: {
-    mobile: "(max-width: 550px",
-    tablet: "(max-width: 800px",
+    mobile: "(max-width: 550px)",
+    tablet: "(max-width: 800px)",
   },
   padding: {
     small: "10px",
-    medium: "12xp",
+    medium: "12px",
   },
-  displayFlex: "flex",
-  justifyContent: "space-between"
+  border: "1px solid black",
 };
+
+//text-shadow
